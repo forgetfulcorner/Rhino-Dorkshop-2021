@@ -8,10 +8,17 @@ Hosted through The New School MFADT Dorkshops https://mfadt.parsons.edu/dorkshop
 **RESOURCES
 
 Food 4 Rhino - Rhino & Grasshopper plugins https://www.food4rhino.com/en?lang=en
+
 Modeling help - McNeel Forums https://discourse.mcneel.com/
+
 3D Models - Sketchup Warehouse https://3dwarehouse.sketchup.com/?hl=en
+
 Tutorials - McNeel Learn https://www.rhino3d.com/learn/?keyword=kind:%20rhino_mac
+
 Free Materials - https://vismats.com/materials.html
+
 Free Materials - https://blog.enscape3d.com/free-rendering-textures
+
 Rhino Documentation - http://docs.mcneel.com/rhino/5/help/en-us/index.htm
+
 Rhino Command List - http://docs.mcneel.com/rhino/5/help/en-us/commandlist/command_list.htm
