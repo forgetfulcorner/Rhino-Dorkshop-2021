@@ -3,9 +3,9 @@ Hosted through The New School MFADT Dorkshops https://mfadt.parsons.edu/dorkshop
 
 <i>Rhino 3D is a powerful 3D modeling software used by multiple disciplines from jewelers to architects and back. Its ability to faithfully handle geometry makes it a great starting point for projects that involve prototyping, rendering, 3D printing, CNC machining, and more. We’ll be diving into the basics of Rhino in this Dorkshop and demonstrate one of its more popular plugins used for algorithmic modeling, Grasshopper 3D.</i>
 
-*Please have the 90 day trial of Rhino installed on your computer before the Workshop, and please also bring a mouse.
+<i>Please have the 90 day trial of Rhino installed on your computer before the Workshop, and please also bring a mouse</i>
 
-**RESOURCES
+<b>RESOURCES</b>
 
 Food 4 Rhino - Rhino & Grasshopper plugins https://www.food4rhino.com/en?lang=en
 
